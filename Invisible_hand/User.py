@@ -8,3 +8,5 @@
 #看到右侧显示“计算结果保存完毕”，则程序运行完成。
 from get_history import *
 getHistory('工商银行','601398','.sh','20190101','20201231')
+
+#This line is new !
